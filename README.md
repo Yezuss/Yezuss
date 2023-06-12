@@ -12,9 +12,9 @@ Hello there! My name is Thanh Duc and I am a student studying Software Engineeri
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Clothing-e-commerce-website&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/Yezuss/CHAT_APP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_APP&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
