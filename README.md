@@ -5,20 +5,14 @@ Hello there! My name is Thanh Duc and I am a student studying Software Engineeri
 These are the tools and languages that I have worked with and have experience about using them.
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
-![HardHat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Premier Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere%20pro)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC))
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
@@ -29,9 +23,6 @@ These are the tools and languages that I have worked with and have experience ab
 
 
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yezuss&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
- <br/>
-![](/IndelibleSorrowfulBlackbear-size_restricted.gif)
-<br />
 
 
 <a href="https://github.com/Yezuss/CHAT_APP">
