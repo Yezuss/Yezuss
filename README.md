@@ -19,14 +19,14 @@ Hello there! My name is Thanh Duc and I am a student studying Software Engineeri
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Clothing-e-commerce-website&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/Yezuss/Fashion_store_management_application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Fashion_store_management_application&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/Yezuss/Fashion_store_management_application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Fashion_store_management_application&theme=onedark" />
 </a>    
 <a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
