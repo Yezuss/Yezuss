@@ -9,18 +9,15 @@ Hello there! My name is Thanh Duc and I am a student studying Software Engineeri
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yezuss&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
-<a href="https://github.com/Yezuss/Clothing-e-commerce-website">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Clothing-e-commerce-website&theme=radical" />
-</a>
+
 <a href="https://github.com/Yezuss/CHAT_APP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_APP&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/Yezuss/Clothing-e-commerce-website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Clothing-e-commerce-website&theme=gruvbox" />
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
