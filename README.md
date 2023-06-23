@@ -25,25 +25,26 @@ These are the tools and languages that I have worked with and have experience ab
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yezuss&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
-<a href="https://github.com/Yezuss/CHAT_APP">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_APP&theme=merko" />
-</a>
 
 
 <a href="https://github.com/Yezuss/Clothing-e-commerce-website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Clothing-e-commerce-website&theme=gruvbox" />
 </a>    
-<a href="https://github.com/Yezuss/Tourism_management_application">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Tourism_management_application&theme=dark" />
-</a>
+
 
 <a href="https://github.com/Yezuss/Fashion_store_management_application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Fashion_store_management_application&theme=onedark" />
 </a>    
+<a href="https://github.com/Yezuss/Tourism_management_application">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Tourism_management_application&theme=dark" />
+</a>
+<a href="https://github.com/Yezuss/CHAT_APP">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_APP&theme=merko" />
+</a>
 <a href="https://github.com/Yezuss/CHAT_WEB">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_WEB&theme=cobalt" />
