@@ -50,8 +50,8 @@ These are the tools and languages that I have worked with and have experience ab
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=CHAT_WEB&theme=cobalt" />
 </a>
 
-<a href="https://github.com/Yezuss/NOTE_APP_ANDROID">
+<a href="https://github.com/Yezuss/Note_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=NOTE_APP_ANDROID&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yezuss&repo=Note_App&theme=synthwave" />
 </a>    
 
