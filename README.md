@@ -85,7 +85,7 @@ These are the tools and languages that I have worked with and have experience ab
 ### Contacts
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100041913399557&mibextid=ZbWKwL)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yezuss)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?styl e=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoctientnt/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoctientnt/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangthanhducaka63@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tangthanhduc?igshid=MzNlNGNkZWQ4Mg==)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yezuss113?lang=en)
