@@ -47,7 +47,7 @@ These are the tools and languages that I have worked with and have experience ab
 <!--## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="Yezuss :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yezuss&show_icons=true&theme=tokyonight" alt="Yezuss :: Profile Stats" /></p>
 
 <p align="center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Yezuss&show_icons=true&theme=tokyonight" alt="Yezuss" />
