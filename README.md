@@ -89,7 +89,7 @@ These are the tools and languages that I have worked with and have experience ab
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangthanhduc.tech@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tangthanhduc?igshid=MzNlNGNkZWQ4Mg==)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yezuss113?lang=en)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ngoctien.TNT)
+<!--[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ngoctien.TNT)-->
 
 <p align="center"><img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Synthwave" height="300" width="500"></p>
 <hr>
